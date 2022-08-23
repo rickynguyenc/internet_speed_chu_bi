@@ -1,6 +1,6 @@
 # internet_speed_chu_bi
 
-Internet speed test plugin to integrate it in your app whenever you want.
+Internet speed test only use for my project.
 Bich is very beautiful !
 ## Get started
 
@@ -8,7 +8,7 @@ Bich is very beautiful !
 
 ```yaml
 dependencies:
-  internet_speed_chu_bi: ^1.6.0
+  internet_speed_chu_bi: ^0.14.2
 ```
 
 ### Example
