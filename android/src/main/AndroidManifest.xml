@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.rickynguyenc.internet_speed_chu_bi">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+</manifest>
