@@ -78,7 +78,7 @@ packages:
       name: fluttertoast
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "7.1.8"
+    version: "8.0.9"
   internet_speed_chu_bi:
     dependency: "direct dev"
     description:
@@ -134,7 +134,7 @@ packages:
       name: percent_indicator
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.9+1"
+    version: "4.2.2"
   quiver:
     dependency: transitive
     description:
@@ -148,7 +148,7 @@ packages:
       name: rflutter_alert
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.0"
+    version: "2.0.4"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -188,14 +188,14 @@ packages:
       name: syncfusion_flutter_core
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "18.4.49"
+    version: "20.2.45"
   syncfusion_flutter_gauges:
     dependency: transitive
     description:
       name: syncfusion_flutter_gauges
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "18.4.49"
+    version: "20.2.45"
   term_glyph:
     dependency: transitive
     description:
@@ -226,4 +226,4 @@ packages:
     version: "2.1.2"
 sdks:
   dart: ">=2.17.0-0 <3.0.0"
-  flutter: ">=2.0.0"
+  flutter: ">=2.12.0"

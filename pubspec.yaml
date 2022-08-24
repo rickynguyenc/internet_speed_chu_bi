@@ -11,10 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
   tuple: ^2.0.0
-  syncfusion_flutter_gauges: ^18.2.48
-  percent_indicator: "^2.1.5"
-  fluttertoast: ^7.0.2
-  rflutter_alert: ^1.0.3
+  syncfusion_flutter_gauges: ^20.2.45
+  percent_indicator: "^4.2.2"
+  fluttertoast: ^8.0.9
+  rflutter_alert: ^2.0.4
 dev_dependencies:
   flutter_test:
     sdk: flutter
