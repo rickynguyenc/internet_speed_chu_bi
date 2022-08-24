@@ -1,6 +1,6 @@
 name: internet_speed_chu_bi
 description: Internet speed test plugin to integrate it in your app whenever you want.
-version: 0.14.2
+version: 0.15.2
 homepage: https://github.com/rickynguyenc/internet_speed_chu_bi
 
 environment:

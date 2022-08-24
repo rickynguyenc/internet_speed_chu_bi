@@ -8,7 +8,7 @@ Bich is very beautiful !
 
 ```yaml
 dependencies:
-  internet_speed_chu_bi: ^0.14.2
+  internet_speed_chu_bi: ^0.15.2
 ```
 
 ### Example
@@ -110,7 +110,7 @@ http://ipv4.ikoula.testdebit.info/
 
 ### Contributors
 
-The major contributor that made this package better for the iOS platform is [Akshat Sharma](https://github.com/aks3800) so a huge shoutout to him!
+The major contributor that made this package better for the iOS platform is [RickyNguyen](https://github.com/rickynguyenc) so a huge shoutout to him!
 
 ### Platforms
 
